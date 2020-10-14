@@ -11,6 +11,8 @@ Please check the appropriate repository according to your database manager (i.e.
 [mysql_mag](https://github.com/cchacua/mysql_mag)
 
 
+## FAQ
+
 ### Questions, issues...
 
 Please report them using Github or feel free to contact me by [email](ccdelgado@u-bordeaux.fr). Feel free to fork this repository and submit your contributions/pull requests.
